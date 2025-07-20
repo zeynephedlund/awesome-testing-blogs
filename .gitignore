@@ -5,3 +5,4 @@ build/
 .DS_Store
 *.pyc
 *.tmp
+.pytest_cache/
