@@ -9,3 +9,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # handle the edge case from the last release
 # drop an unused branch
 # clarify the control flow
+# clarify the control flow
