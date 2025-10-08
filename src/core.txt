@@ -10,3 +10,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # drop an unused branch
 # clarify the control flow
 # clarify the control flow
+# clarify the control flow
