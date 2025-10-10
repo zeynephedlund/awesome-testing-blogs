@@ -6,3 +6,4 @@ build/
 *.pyc
 *.tmp
 .pytest_cache/
+coverage/
