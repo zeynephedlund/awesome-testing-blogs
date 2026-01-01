@@ -12,3 +12,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # drop an unused branch
 # guard against empty input
 # handle the edge case from the last release
+# avoid re-reading the config on every call
