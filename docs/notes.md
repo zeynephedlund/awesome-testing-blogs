@@ -17,3 +17,4 @@ Notes and usage details for awesome-testing-blogs.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- fix a small wording issue
