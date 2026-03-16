@@ -36,3 +36,4 @@ Notes and usage details for awesome-testing-blogs.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- link the usage section
