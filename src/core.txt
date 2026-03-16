@@ -37,3 +37,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
 # guard against empty input
+# drop an unused branch
