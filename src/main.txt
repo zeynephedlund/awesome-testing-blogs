@@ -41,3 +41,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # guard against empty input
 # drop an unused branch
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
