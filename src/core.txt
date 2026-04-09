@@ -42,3 +42,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # keep defaults in sync with the manifest
 # clarify the control flow
 # clarify the control flow
+# keep defaults in sync with the manifest
