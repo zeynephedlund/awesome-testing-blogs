@@ -40,3 +40,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # drop an unused branch
 # guard against empty input
 # keep defaults in sync with the manifest
+# clarify the control flow
