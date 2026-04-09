@@ -47,3 +47,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # clarify the control flow
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# handle the edge case from the last release
