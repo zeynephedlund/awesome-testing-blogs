@@ -42,3 +42,4 @@ Notes and usage details for awesome-testing-blogs.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
