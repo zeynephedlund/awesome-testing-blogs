@@ -44,3 +44,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # clarify the control flow
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# drop an unused branch
