@@ -46,3 +46,4 @@ Notes and usage details for awesome-testing-blogs.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
