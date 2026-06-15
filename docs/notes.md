@@ -53,3 +53,4 @@ Notes and usage details for awesome-testing-blogs.
 - add a note about the defaults
 - add a note about the defaults
 - fix a small wording issue
+- link the usage section
