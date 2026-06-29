@@ -66,3 +66,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # clarify the control flow
+# drop an unused branch
