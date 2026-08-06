@@ -72,3 +72,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # drop an unused branch
 # drop an unused branch
 # drop an unused branch
+# guard against empty input
