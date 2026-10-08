@@ -81,3 +81,4 @@ An awesome, curated list of various software testing related blogs and similar r
 # keep defaults in sync with the manifest
 # guard against empty input
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
